@@ -1,0 +1,1 @@
+io.format("The number is ~3.11~n", [])
